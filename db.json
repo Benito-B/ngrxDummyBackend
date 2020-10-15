@@ -1,0 +1,35 @@
+{
+  "customers": [
+    {
+      "name": "John Doe",
+      "phone": "11111111",
+      "address": "123 Calle falsa",
+      "membership": "Basic",
+      "id": 1
+    },
+    {
+      "name": "John Undoe",
+      "phone": "22222222",
+      "address": "123 Calle real",
+      "membership": "Pro",
+      "id": 2
+    }
+  ],
+  "products": [
+    {
+      "id": 0,
+      "name": "Cartón de huevos",
+      "price": 14.5,
+      "description": "Cartón con 12 huevos."
+    },
+    {
+      "id": 1,
+      "name": "Botella de leche 1L",
+      "price": 1,
+      "description": "Botella de plástico de 1L de leche entera."
+    }
+  ],
+  "baskets": [
+    
+  ]
+}

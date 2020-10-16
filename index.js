@@ -17,7 +17,9 @@ server.use((req, res, next) => {
 
 server.post('/login', (req, res) => {
     // console.log(req.body);
-    return res.json({token: "abcd1234"});
+    let json = {name: req.body.username, token: "abcd1234", isAdmin: req.body.username=="admin"};
+    // console.log("returning:", json);
+    return res.json(json);
 });
 
 server.use(router);

@@ -18,18 +18,16 @@
   "products": [
     {
       "id": 0,
-      "name": "Cartón de huevos",
+      "name": "Los hombres de paco",
       "price": 14.5,
-      "description": "Cartón con 12 huevos."
+      "description": "Serie de 7 temporadas con 12 capítulos cada una donde unos señores intentan no cagarla mucho."
     },
     {
       "id": 1,
-      "name": "Botella de leche 1L",
-      "price": 1,
-      "description": "Botella de plástico de 1L de leche entera."
+      "name": "Saga El Señor De Los Anillos",
+      "price": 99.99,
+      "description": "Colección completa, versión Extendida. Incluye comentarios del director, escenas eliminadas y entrevistas de los personajes. Ideal para un año sabático."
     }
   ],
-  "baskets": [
-    
-  ]
+  "baskets": []
 }
